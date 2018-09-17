@@ -1,2 +1,2 @@
 this is master
-I am branch b1
+I fixed a bug
