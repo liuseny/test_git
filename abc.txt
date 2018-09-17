@@ -1,2 +1,4 @@
 this is master
-I fixed a bug
+I fixed a bug on branch b1
+issue-101 edit
+b3 edit
